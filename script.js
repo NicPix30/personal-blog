@@ -1,6 +1,6 @@
 //git add .
 //git commit -m "message"
-//git push orign master
+//git push origin master
 
 
 fetch('data.json')
