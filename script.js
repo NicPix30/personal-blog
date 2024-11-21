@@ -1,3 +1,8 @@
+//git add .
+//git commit -m "message"
+//git push orign master
+
+
 fetch('data.json')
   .then(response => response.json())
   .then(posts => {
