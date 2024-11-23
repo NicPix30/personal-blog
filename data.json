@@ -4,6 +4,13 @@
       "date": "2024-11-20",
       "description": "An introduction to my blogging journey.",
       "link": "posts/post1.html"
+    },
+    {
+      "title": "New Job and Other Accomplishments",
+      "date": "2024-11-22",
+      "description": "A week of growth, from a game-testing interview to personal milestones in fitness and music.",
+      "link": "posts/post2.html"
     }
+    
   ]
   
