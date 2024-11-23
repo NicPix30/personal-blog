@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s a basic README for your blog repository:
 
 ---
@@ -67,3 +68,7 @@ Feel free to fork the repository and submit pull requests if you want to add new
 ---
 
 This README will provide visitors and collaborators with an overview of the project, how to install it, and how to host it on GitHub Pages. You can replace `your-username` with your actual GitHub username if you plan to host it on GitHub.
+=======
+# personal-blog
+A repository of my personal blog =)
+>>>>>>> 0f8b493e992480c868e2b1adaeace692951c239a
